@@ -45,11 +45,11 @@ function onPlayerCommand( player, cmd, text )
   {
           if (!text) Message("bisi belirt ama");
           else{
-                  local plr = GetPlayer(GetTok(text, " ", 1));
+                  local plr = GetPlayer(GetTok(text, " ", 1)); // Seçilen oyuncu
                   if (!plr) Message("Sen birini belirmessen ben mi belirticem amk");
                         else {
-                                local nick = GetTok(text, " ", 2);
-                                player.Name = nick;
+                                local nick = GetTok(text, " ", 2); // Yeni Nick
+                                player.Name = nick; // Sonuç bu :D
                                 MessagePlayer(player.Name+", adli arkadasin nicki artik, "+plr.Name,player);
                         }
           }
