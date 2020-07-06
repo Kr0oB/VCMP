@@ -1,0 +1,57 @@
+function GetTok(string, separator, n, ...)
+{
+local m = vargv.len() > 0 ? vargv[0] : n,
+tokenized = split(string, separator),
+text = "";
+if (n > tokenized.len() || n < 1) return null;
+for (; n <= m; n++)
+{
+text += text == "" ? tokenized[n-1] : separator + tokenized[n-1];
+}
+return text;
+}
+
+function NumTok(string, separator)
+{
+local tokenized = split(string, separator);
+return tokenized.len();
+}
+
+function GetPlayer( plr )
+{
+if ( plr )
+{
+if ( IsNum( plr ) )
+{
+plr = FindPlayer( plr.tointeger() );
+if ( plr ) return plr;
+else return false;
+}
+else
+{
+plr = FindPlayer( plr );
+if ( plr ) return plr;
+else return false;
+}
+}
+else return false;
+}
+
+function onPlayerCommand( player, cmd, text )
+{
+//// Yukarısı gereklidir sadece bu komut için değil gelecekteki diğer kodları içinde öyledir \\\\
+
+  if ( cmd = "cnick")
+  {
+          if (!text) Message("bisi belirt ama");
+          else{
+                  local plr = GetPlayer(GetTok(text, " ", 1));
+                  if (!plr) Message("Sen birini belirmessen ben mi belirticem amk");
+                        else {
+                                local nick = GetTok(text, " ", 2);
+                                player.Name = nick;
+                                MessagePlayer(player.Name+", adli arkadasin nicki artik, "+plr.Name,player);
+                        }
+          }
+     }   
+} 
