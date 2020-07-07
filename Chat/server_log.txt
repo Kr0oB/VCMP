@@ -1,0 +1,984 @@
+
+ Vice City Multiplayer Server
+ -------------------------------
+ v0.4, (c) 2007-2014 VC:MP Team
+
+Loaded plugin: xmlconf04rel64
+
+Loaded plugin: announce04rel64
+
+Loaded plugin: squirrel04rel64
+
+[WEAPONS] No custom weapons to load.
+Player 'KrOoB_' ID 0 connected.
+Player 'KrOoB_' ID 0 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  ------------------------------------
+[SCRIPT]  Server name: Blank VC:MP Server
+[SCRIPT]  ------------------------------------
+
+AN ERROR HAS OCCURED [the index 'text' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerChat()] scripts/main.nut line [89]
+
+LOCALS
+[Stream] INSTANCE
+[chat] "asds"
+[player] INSTANCE
+[this] TABLE
+
+ Vice City Multiplayer Server
+ -------------------------------
+ v0.4, (c) 2007-2014 VC:MP Team
+
+Loaded plugin: xmlconf04rel64
+
+Loaded plugin: announce04rel64
+
+Loaded plugin: squirrel04rel64
+
+[WEAPONS] No custom weapons to load.
+Player 'KrOoB_' ID 0 connected.
+Player 'KrOoB_' ID 0 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  ------------------------------------
+[SCRIPT]  Server name: Blank VC:MP Server
+[SCRIPT]  ------------------------------------
+
+AN ERROR HAS OCCURED [the index 'text' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerChat()] scripts/main.nut line [89]
+
+LOCALS
+[Stream] INSTANCE
+[chat] "asds"
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'text' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerChat()] scripts/main.nut line [89]
+
+LOCALS
+[Stream] INSTANCE
+[chat] "sad"
+[player] INSTANCE
+[this] TABLE
+
+ Vice City Multiplayer Server
+ -------------------------------
+ v0.4, (c) 2007-2014 VC:MP Team
+
+Loaded plugin: xmlconf04rel64
+
+Loaded plugin: announce04rel64
+
+Loaded plugin: squirrel04rel64
+
+[WEAPONS] No custom weapons to load.
+Player 'KrOoB' ID 0 connected.
+Disconnecting player 'KrOoB' at ID 0, sent quit packet with reason 1.
+Player 'KrOoB' ID 0 disconnected.
+Player 'KrOoB' ID 0 connected.
+Player 'KrOoB' ID 0 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  ------------------------------------
+[SCRIPT]  Server name: Blank VC:MP Server
+[SCRIPT]  ------------------------------------
+
+AN ERROR HAS OCCURED [empty separators string]
+
+CALLSTACK
+*FUNCTION [GetTok()] scripts/main.nut line [59]
+*FUNCTION [onPlayerCommand()] scripts/main.nut line [164]
+
+LOCALS
+[m] 3
+[vargv] ARRAY
+[n] 3
+[separator] ""
+[string] "asd asdas dasd"
+[this] TABLE
+[text] "asd asdas dasd"
+[cmd] "ooc"
+[player] INSTANCE
+[this] TABLE
+
+ Vice City Multiplayer Server
+ -------------------------------
+ v0.4, (c) 2007-2014 VC:MP Team
+
+Loaded plugin: xmlconf04rel64
+
+Loaded plugin: announce04rel64
+
+Loaded plugin: squirrel04rel64
+
+[WEAPONS] No custom weapons to load.
+Player 'KrOoB' ID 0 connected.
+Player 'KrOoB' ID 0 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  ------------------------------------
+[SCRIPT]  Server name: Blank VC:MP Server
+[SCRIPT]  ------------------------------------
+
+AN ERROR HAS OCCURED [empty separators string]
+
+CALLSTACK
+*FUNCTION [GetTok()] scripts/main.nut line [59]
+*FUNCTION [onPlayerCommand()] scripts/main.nut line [164]
+
+LOCALS
+[m] 3
+[vargv] ARRAY
+[n] 3
+[separator] ""
+[string] "asd asdas dasd"
+[this] TABLE
+[text] "asd asdas dasd"
+[cmd] "ooc"
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [empty separators string]
+
+CALLSTACK
+*FUNCTION [GetTok()] scripts/main.nut line [59]
+*FUNCTION [onPlayerCommand()] scripts/main.nut line [164]
+
+LOCALS
+[m] 3
+[vargv] ARRAY
+[n] 3
+[separator] ""
+[string] "asd asdas dasd"
+[this] TABLE
+[text] "asd asdas dasd"
+[cmd] "ooc"
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [empty separators string]
+
+CALLSTACK
+*FUNCTION [GetTok()] scripts/main.nut line [59]
+*FUNCTION [onPlayerCommand()] scripts/main.nut line [164]
+
+LOCALS
+[m] 3
+[vargv] ARRAY
+[n] 3
+[separator] ""
+[string] "asd "
+[this] TABLE
+[text] "asd "
+[cmd] "ooc"
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [empty separators string]
+
+CALLSTACK
+*FUNCTION [GetTok()] scripts/main.nut line [59]
+*FUNCTION [onPlayerCommand()] scripts/main.nut line [164]
+
+LOCALS
+[m] 3
+[vargv] ARRAY
+[n] 3
+[separator] ""
+[string] "asd"
+[this] TABLE
+[text] "asd"
+[cmd] "ooc"
+[player] INSTANCE
+[this] TABLE
+
+ Vice City Multiplayer Server
+ -------------------------------
+ v0.4, (c) 2007-2014 VC:MP Team
+
+Loaded plugin: xmlconf04rel64
+
+Loaded plugin: announce04rel64
+
+Loaded plugin: squirrel04rel64
+
+[WEAPONS] No custom weapons to load.
+Player 'KrOoB' ID 0 connected.
+Player 'KrOoB' ID 0 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  ------------------------------------
+[SCRIPT]  Server name: Blank VC:MP Server
+[SCRIPT]  ------------------------------------
+
+ Vice City Multiplayer Server
+ -------------------------------
+ v0.4, (c) 2007-2014 VC:MP Team
+
+Loaded plugin: xmlconf04rel64
+
+Loaded plugin: announce04rel64
+
+Loaded plugin: squirrel04rel64
+
+[WEAPONS] No custom weapons to load.
+Player 'KrOoB' ID 0 connected.
+Player 'KrOoB' ID 0 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  ------------------------------------
+[SCRIPT]  Server name: Blank VC:MP Server
+[SCRIPT]  ------------------------------------
+
+ Vice City Multiplayer Server
+ -------------------------------
+ v0.4, (c) 2007-2014 VC:MP Team
+
+Loaded plugin: xmlconf04rel64
+
+Loaded plugin: announce04rel64
+
+Loaded plugin: squirrel04rel64
+
+[WEAPONS] No custom weapons to load.
+Player 'KrOoB' ID 0 connected.
+Player 'KrOoB' ID 0 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  ------------------------------------
+[SCRIPT]  Server name: Blank VC:MP Server
+[SCRIPT]  ------------------------------------
+
+ Vice City Multiplayer Server
+ -------------------------------
+ v0.4, (c) 2007-2014 VC:MP Team
+
+Loaded plugin: xmlconf04rel64
+
+Loaded plugin: announce04rel64
+
+Loaded plugin: squirrel04rel64
+
+[WEAPONS] No custom weapons to load.
+Player 'KrOoB' ID 0 connected.
+Player 'KrOoB' ID 0 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  ------------------------------------
+[SCRIPT]  Server name: Blank VC:MP Server
+[SCRIPT]  ------------------------------------
+
+AN ERROR HAS OCCURED [the index '1' does not exist]
+
+CALLSTACK
+*FUNCTION [GetTok()] scripts/main.nut line [65]
+*FUNCTION [onPlayerCommand()] scripts/main.nut line [164]
+
+LOCALS
+[text] "asd"
+[tokenized] ARRAY
+[m] 2
+[vargv] ARRAY
+[n] 2
+[separator] " "
+[string] "asd "
+[this] TABLE
+[text] "asd "
+[cmd] "ooc"
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index '1' does not exist]
+
+CALLSTACK
+*FUNCTION [GetTok()] scripts/main.nut line [65]
+*FUNCTION [onPlayerCommand()] scripts/main.nut line [164]
+
+LOCALS
+[text] "asd"
+[tokenized] ARRAY
+[m] 2
+[vargv] ARRAY
+[n] 2
+[separator] " "
+[string] "asd"
+[this] TABLE
+[text] "asd"
+[cmd] "ooc"
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index '1' does not exist]
+
+CALLSTACK
+*FUNCTION [GetTok()] scripts/main.nut line [65]
+*FUNCTION [onPlayerCommand()] scripts/main.nut line [164]
+
+LOCALS
+[text] "asd"
+[tokenized] ARRAY
+[m] 2
+[vargv] ARRAY
+[n] 2
+[separator] " "
+[string] "asd"
+[this] TABLE
+[text] "asd"
+[cmd] "ooc"
+[player] INSTANCE
+[this] TABLE
+
+ Vice City Multiplayer Server
+ -------------------------------
+ v0.4, (c) 2007-2014 VC:MP Team
+
+Loaded plugin: xmlconf04rel64
+
+Loaded plugin: announce04rel64
+
+Loaded plugin: squirrel04rel64
+
+[WEAPONS] No custom weapons to load.
+Player 'KrOoB' ID 0 connected.
+Player 'KrOoB' ID 0 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  ------------------------------------
+[SCRIPT]  Server name: Blank VC:MP Server
+[SCRIPT]  ------------------------------------
+
+AN ERROR HAS OCCURED [the index 'chat' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerJoin()] scripts/main.nut line [56]
+
+LOCALS
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'chat' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerCommand()] scripts/main.nut line [176]
+
+LOCALS
+[text] "asd "
+[cmd] "ooc"
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'chat' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerChat()] scripts/main.nut line [131]
+
+LOCALS
+[text] "s"
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'chat' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerCommand()] scripts/main.nut line [176]
+
+LOCALS
+[text] NULL
+[cmd] "ooc"
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'chat' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerChat()] scripts/main.nut line [131]
+
+LOCALS
+[text] "sd"
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'chat' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerCommand()] scripts/main.nut line [176]
+
+LOCALS
+[text] NULL
+[cmd] "ooc"
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'chat' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerChat()] scripts/main.nut line [131]
+
+LOCALS
+[text] "sad"
+[player] INSTANCE
+[this] TABLE
+
+ Vice City Multiplayer Server
+ -------------------------------
+ v0.4, (c) 2007-2014 VC:MP Team
+
+Loaded plugin: xmlconf04rel64
+
+Loaded plugin: announce04rel64
+
+Loaded plugin: squirrel04rel64
+
+[WEAPONS] No custom weapons to load.
+Player 'KrOoB' ID 0 connected.
+Disconnecting player 'KrOoB' at ID 0, sent quit packet with reason 1.
+Player 'KrOoB' ID 0 disconnected.
+Player 'KrOoB' ID 0 connected.
+Player 'KrOoB' ID 0 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  ------------------------------------
+[SCRIPT]  Server name: Blank VC:MP Server
+[SCRIPT]  ------------------------------------
+
+ Vice City Multiplayer Server
+ -------------------------------
+ v0.4, (c) 2007-2014 VC:MP Team
+
+Loaded plugin: xmlconf04rel64
+
+Loaded plugin: announce04rel64
+
+Loaded plugin: squirrel04rel64
+
+[WEAPONS] No custom weapons to load.
+Player 'KrOoB' ID 0 connected.
+Player 'KrOoB' ID 0 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  ------------------------------------
+[SCRIPT]  Server name: Blank VC:MP Server
+[SCRIPT]  ------------------------------------
+
+ Vice City Multiplayer Server
+ -------------------------------
+ v0.4, (c) 2007-2014 VC:MP Team
+
+Loaded plugin: xmlconf04rel64
+
+Loaded plugin: announce04rel64
+
+Loaded plugin: squirrel04rel64
+
+[WEAPONS] No custom weapons to load.
+Player 'KrOoB' ID 0 connected.
+Disconnecting player 'KrOoB' at ID 0, sent quit packet with reason 1.
+Player 'KrOoB' ID 0 disconnected.
+Player 'KrOoB' ID 0 connected.
+Player 'KrOoB' ID 0 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  ------------------------------------
+[SCRIPT]  Server name: Blank VC:MP Server
+[SCRIPT]  ------------------------------------
+
+ Vice City Multiplayer Server
+ -------------------------------
+ v0.4, (c) 2007-2014 VC:MP Team
+
+Loaded plugin: xmlconf04rel64
+
+Loaded plugin: announce04rel64
+
+Loaded plugin: squirrel04rel64
+
+[WEAPONS] No custom weapons to load.
+Unable to start server on host:  port: 8192. Port in use?
+
+ Vice City Multiplayer Server
+ -------------------------------
+ v0.4, (c) 2007-2014 VC:MP Team
+
+Loaded plugin: xmlconf04rel64
+
+Loaded plugin: announce04rel64
+
+Loaded plugin: squirrel04rel64
+
+[WEAPONS] No custom weapons to load.
+Player 'KrOoB' ID 0 connected.
+Disconnecting player 'KrOoB' at ID 0, sent quit packet with reason 1.
+Player 'KrOoB' ID 0 disconnected.
+Player 'KrOoB' ID 0 connected.
+Player 'KrOoB' ID 0 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  ------------------------------------
+[SCRIPT]  Server name: Blank VC:MP Server
+[SCRIPT]  ------------------------------------
+
+ Vice City Multiplayer Server
+ -------------------------------
+ v0.4, (c) 2007-2014 VC:MP Team
+
+Loaded plugin: xmlconf04rel64
+
+Loaded plugin: announce04rel64
+
+Loaded plugin: squirrel04rel64
+
+[WEAPONS] No custom weapons to load.
+Player 'KrOoB' ID 0 connected.
+Player 'KrOoB' ID 0 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  ------------------------------------
+[SCRIPT]  Server name: Blank VC:MP Server
+[SCRIPT]  ------------------------------------
+
+AN ERROR HAS OCCURED [the index 'occ' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerCommand()] scripts/main.nut line [184]
+
+LOCALS
+[text] NULL
+[cmd] "ooc"
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'occ' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerCommand()] scripts/main.nut line [189]
+
+LOCALS
+[text] NULL
+[cmd] "ooc"
+[player] INSTANCE
+[this] TABLE
+
+ Vice City Multiplayer Server
+ -------------------------------
+ v0.4, (c) 2007-2014 VC:MP Team
+
+Loaded plugin: xmlconf04rel64
+
+Loaded plugin: announce04rel64
+
+Loaded plugin: squirrel04rel64
+
+[WEAPONS] No custom weapons to load.
+Player 'KrOoB' ID 0 connected.
+Player 'KrOoB' ID 0 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  ------------------------------------
+[SCRIPT]  Server name: Blank VC:MP Server
+[SCRIPT]  ------------------------------------
+[SCRIPT]  1
+[SCRIPT]  2
+
+ Vice City Multiplayer Server
+ -------------------------------
+ v0.4, (c) 2007-2014 VC:MP Team
+
+Loaded plugin: xmlconf04rel64
+
+Loaded plugin: announce04rel64
+
+Loaded plugin: squirrel04rel64
+
+[WEAPONS] No custom weapons to load.
+Player 'KrOoB' ID 0 connected.
+Player 'KrOoB' ID 0 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  ------------------------------------
+[SCRIPT]  Server name: Blank VC:MP Server
+[SCRIPT]  ------------------------------------
+[SCRIPT]  1
+[SCRIPT]  2
+
+ Vice City Multiplayer Server
+ -------------------------------
+ v0.4, (c) 2007-2014 VC:MP Team
+
+Loaded plugin: xmlconf04rel64
+
+Loaded plugin: announce04rel64
+
+Loaded plugin: squirrel04rel64
+
+[WEAPONS] No custom weapons to load.
+Player 'KrOoB' ID 0 connected.
+Player 'BATU' ID 1 connected.
+Disconnecting player 'BATU' at ID 1, sent quit packet with reason 1.
+Player 'BATU' ID 1 disconnected.
+Player 'XxtaymxX' ID 1 connected.
+Player 'KrOoB' ID 0 disconnected (timeout).
+Player 'XxtaymxX' ID 1 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  ------------------------------------
+[SCRIPT]  Server name: Blank VC:MP Server
+[SCRIPT]  ------------------------------------
+[SCRIPT]  1
+
+ Vice City Multiplayer Server
+ -------------------------------
+ v0.4, (c) 2007-2014 VC:MP Team
+
+Loaded plugin: xmlconf04rel64
+
+Loaded plugin: announce04rel64
+
+Loaded plugin: squirrel04rel64
+
+[WEAPONS] No custom weapons to load.
+Player 'XxtaymxX' ID 0 connected.
+Disconnecting player 'XxtaymxX' at ID 0, sent quit packet with reason 1.
+Player 'XxtaymxX' ID 0 disconnected.
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+scripts/main.nut line = (18) column = (3) : error expected 'IDENTIFIER'
+[WARNING] Could not load script 'scripts/main.nut'
+[WARNING] expected 'IDENTIFIER'
+[ERROR]   No Squirrel gamemode was specified.
+
+ Vice City Multiplayer Server
+ -------------------------------
+ v0.4, (c) 2007-2014 VC:MP Team
+
+Loaded plugin: xmlconf04rel64
+
+Loaded plugin: announce04rel64
+
+Loaded plugin: squirrel04rel64
+
+[WEAPONS] No custom weapons to load.
+Player 'KrOoB' ID 0 connected.
+Player 'KrOoB' ID 0 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  ------------------------------------
+[SCRIPT]  Server name: Blank VC:MP Server
+[SCRIPT]  ------------------------------------
+[SCRIPT]  1
+[SCRIPT]  1
+
+ Vice City Multiplayer Server
+ -------------------------------
+ v0.4, (c) 2007-2014 VC:MP Team
+
+Loaded plugin: xmlconf04rel64
+
+Loaded plugin: announce04rel64
+
+Loaded plugin: squirrel04rel64
+
+[WEAPONS] No custom weapons to load.
+Player 'KrOoB' ID 0 connected.
+Player 'KrOoB' ID 0 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  ------------------------------------
+[SCRIPT]  Server name: Blank VC:MP Server
+[SCRIPT]  ------------------------------------
+[SCRIPT]  1
+
+ Vice City Multiplayer Server
+ -------------------------------
+ v0.4, (c) 2007-2014 VC:MP Team
+
+Loaded plugin: xmlconf04rel64
+
+Loaded plugin: announce04rel64
+
+Loaded plugin: squirrel04rel64
+
+[WEAPONS] No custom weapons to load.
+Player 'KrOoB' ID 0 connected.
+Player 'KrOoB' ID 0 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  ------------------------------------
+[SCRIPT]  Server name: Blank VC:MP Server
+[SCRIPT]  ------------------------------------
+[SCRIPT]  3
+[SCRIPT]  5
+[SCRIPT]  6
+[SCRIPT]  1
+
+ Vice City Multiplayer Server
+ -------------------------------
+ v0.4, (c) 2007-2014 VC:MP Team
+
+Loaded plugin: xmlconf04rel64
+
+Loaded plugin: announce04rel64
+
+Loaded plugin: squirrel04rel64
+
+[WEAPONS] No custom weapons to load.
+Player 'KrOoB' ID 0 connected.
+Player 'KrOoB' ID 0 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  ------------------------------------
+[SCRIPT]  Server name: Blank VC:MP Server
+[SCRIPT]  ------------------------------------
+[SCRIPT]  1
+[SCRIPT]  2
+
+ Vice City Multiplayer Server
+ -------------------------------
+ v0.4, (c) 2007-2014 VC:MP Team
+
+Loaded plugin: xmlconf04rel64
+
+Loaded plugin: announce04rel64
+
+Loaded plugin: squirrel04rel64
+
+[WEAPONS] No custom weapons to load.
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+scripts/main.nut line = (154) column = (8) : error expression expected
+[WARNING] Could not load script 'scripts/main.nut'
+[WARNING] expression expected
+[ERROR]   No Squirrel gamemode was specified.
+
+ Vice City Multiplayer Server
+ -------------------------------
+ v0.4, (c) 2007-2014 VC:MP Team
+
+Loaded plugin: xmlconf04rel64
+
+Loaded plugin: announce04rel64
+
+Loaded plugin: squirrel04rel64
+
+[WEAPONS] No custom weapons to load.
+Player 'KrOoB' ID 0 connected.
+Player 'KrOoB' ID 0 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  ------------------------------------
+[SCRIPT]  Server name: Blank VC:MP Server
+[SCRIPT]  ------------------------------------
+[SCRIPT]  1
+[SCRIPT]  5
+
+ Vice City Multiplayer Server
+ -------------------------------
+ v0.4, (c) 2007-2014 VC:MP Team
+
+Loaded plugin: xmlconf04rel64
+
+Loaded plugin: announce04rel64
+
+Loaded plugin: squirrel04rel64
+
+[WEAPONS] No custom weapons to load.
+Player 'KrOoB' ID 0 connected.
+Player 'KrOoB' ID 0 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  ------------------------------------
+[SCRIPT]  Server name: Blank VC:MP Server
+[SCRIPT]  ------------------------------------
+[SCRIPT]  1
+[SCRIPT]  1
+[SCRIPT]  1
+[SCRIPT]  2
+
+ Vice City Multiplayer Server
+ -------------------------------
+ v0.4, (c) 2007-2014 VC:MP Team
+
+Loaded plugin: xmlconf04rel64
+
+Loaded plugin: announce04rel64
+
+Loaded plugin: squirrel04rel64
+
+[WEAPONS] No custom weapons to load.
+Player 'KrOoB_' ID 0 connected.
+Player 'BayTommy' ID 1 connected.
+Player 'KrOoB_' ID 0 disconnected (timeout).
+Player 'BayTommy' ID 1 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  ------------------------------------
+[SCRIPT]  Server name: Blank VC:MP Server
+[SCRIPT]  ------------------------------------
+[SCRIPT]  1
+[SCRIPT]  2
+[SCRIPT]  1
+
+ Vice City Multiplayer Server
+ -------------------------------
+ v0.4, (c) 2007-2014 VC:MP Team
+
+Loaded plugin: xmlconf04rel64
+
+Loaded plugin: announce04rel64
+
+Loaded plugin: squirrel04rel64
+
+[WEAPONS] No custom weapons to load.
+Disconnecting client at ID 0 - hasn't told us who he is.
+Player 'BayTommy' ID 0 connected.
+Player 'BayTommy' ID 0 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+scripts/main.nut line = (26) column = (14) : error expected 'IDENTIFIER'
+[WARNING] Could not load script 'scripts/main.nut'
+[WARNING] expected 'IDENTIFIER'
+[ERROR]   No Squirrel gamemode was specified.
+
+ Vice City Multiplayer Server
+ -------------------------------
+ v0.4, (c) 2007-2014 VC:MP Team
+
+Loaded plugin: xmlconf04rel64
+
+Loaded plugin: announce04rel64
+
+Loaded plugin: squirrel04rel64
+
+[WEAPONS] No custom weapons to load.
+Player 'BayTommy' ID 0 connected.
+Disconnecting player 'BayTommy' at ID 0, sent quit packet with reason 1.
+Player 'BayTommy' ID 0 disconnected.
+Player 'BayTommy' ID 0 connected.
+Disconnecting player 'BayTommy' at ID 0, sent quit packet with reason 1.
+Player 'BayTommy' ID 0 disconnected.
+Player 'BayTommy' ID 0 connected.
+Player 'BayTommy' ID 0 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+scripts/main.nut line = (133) column = (24) : error expected '('
+[WARNING] Could not load script 'scripts/main.nut'
+[WARNING] expected '('
+[ERROR]   No Squirrel gamemode was specified.
+
+ Vice City Multiplayer Server
+ -------------------------------
+ v0.4, (c) 2007-2014 VC:MP Team
+
+Loaded plugin: xmlconf04rel64
+
+Loaded plugin: announce04rel64
+
+Loaded plugin: squirrel04rel64
+
+[WEAPONS] No custom weapons to load.
+Player 'KrOoB_' ID 0 connected.
+Kicking player ID -1, no record of such connection ID exists.
+Kicking player ID -1, no record of such connection ID exists.
+Kicking player ID -1, no record of such connection ID exists.
+Kicking connecting player at ID 0, name already in use.
+Player 'KrOoB_' ID 0 disconnected (kicked).
+Player 'KrOoB_' ID 0 connected.
+Disconnecting client at ID 1 - hasn't told us who he is.
+Player 'BayTommy' ID 1 connected.
+Disconnecting player 'BayTommy' at ID 1, sent quit packet with reason 1.
+Player 'BayTommy' ID 1 disconnected.
+Kicking player ID 1, no record of such connection ID exists (when processing join packet).
+Kicking player ID 1, tried to send a non-join packet when not yet joined.
+Player 'BayTommy' ID 1 connected.
+Player 'KrOoB_' ID 0 disconnected (timeout).
+Player 'BayTommy' ID 1 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  ------------------------------------
+[SCRIPT]  Server name: Blank VC:MP Server
+[SCRIPT]  ------------------------------------
+[SCRIPT]  1
+
+ Vice City Multiplayer Server
+ -------------------------------
+ v0.4, (c) 2007-2014 VC:MP Team
+
+Loaded plugin: xmlconf04rel64
+
+Loaded plugin: announce04rel64
+
+Loaded plugin: squirrel04rel64
+
+[WEAPONS] No custom weapons to load.
+Player 'BayTommy' ID 0 connected.
+Disconnecting player 'BayTommy' at ID 0, sent quit packet with reason 1.
+Player 'BayTommy' ID 0 disconnected.
+Player 'KrOoB_' ID 1 connected.
+Player 'BayTommy' ID 0 connected.
+Player 'BayTommy' ID 0 disconnected (timeout).
+Player 'KrOoB_' ID 1 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  ------------------------------------
+[SCRIPT]  Server name: Blank VC:MP Server
+[SCRIPT]  ------------------------------------
+[SCRIPT]  1
+[SCRIPT]  2
+[SCRIPT]  1
+[SCRIPT]  1
+[SCRIPT]  2
+[SCRIPT]  1
+[SCRIPT]  2
+[SCRIPT]  2
+[SCRIPT]  1
+[SCRIPT]  1
+[SCRIPT]  2
+[SCRIPT]  1
+[SCRIPT]  1
+[SCRIPT]  2
+[SCRIPT]  2
+[SCRIPT]  1
+[SCRIPT]  2
+[SCRIPT]  1
+[SCRIPT]  1
+[SCRIPT]  2
+[SCRIPT]  1
+[SCRIPT]  2
+
+ Vice City Multiplayer Server
+ -------------------------------
+ v0.4, (c) 2007-2014 VC:MP Team
+
+Loaded plugin: xmlconf04rel64
+
+Loaded plugin: announce04rel64
+
+Loaded plugin: squirrel04rel64
+
+[WEAPONS] No custom weapons to load.
+Player 'KrOoB_' ID 0 connected.
+Player 'BayTommy' ID 1 connected.
+Kicking player ID -1, no record of such connection ID exists.
+Kicking player ID -1, no record of such connection ID exists.
+Kicking player ID -1, no record of such connection ID exists.
+Kicking connecting player at ID 1, name already in use.
+Player 'BayTommy' ID 1 disconnected (kicked).
+Player 'BayTommy' ID 1 connected.
+Player 'KrOoB_' ID 0 disconnected (timeout).
+Player 'BayTommy' ID 1 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  ------------------------------------
+[SCRIPT]  Server name: Blank VC:MP Server
+[SCRIPT]  ------------------------------------
+[SCRIPT]  1
+[SCRIPT]  1
+[SCRIPT]  2
+[SCRIPT]  2
+[SCRIPT]  1
+[SCRIPT]  1
+[SCRIPT]  1
+[SCRIPT]  1
+[SCRIPT]  2
+
+ Vice City Multiplayer Server
+ -------------------------------
+ v0.4, (c) 2007-2014 VC:MP Team
+
+Loaded plugin: xmlconf04rel64
+
+Loaded plugin: announce04rel64
+
+Loaded plugin: squirrel04rel64
+
+[WEAPONS] No custom weapons to load.
+Player 'KrOoB_' ID 0 connected.
+Player 'BayTommy' ID 1 connected.
+Player 'KrOoB_' ID 0 disconnected (timeout).
+Player 'BayTommy' ID 1 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  ------------------------------------
+[SCRIPT]  Server name: Blank VC:MP Server
+[SCRIPT]  ------------------------------------
+[SCRIPT]  1
+[SCRIPT]  1
+[SCRIPT]  2
+[SCRIPT]  1
+[SCRIPT]  1
