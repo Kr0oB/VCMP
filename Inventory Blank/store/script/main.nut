@@ -64,7 +64,7 @@ function Server::ServerData( stream )
   StreamReadString = stream.ReadString();
  switch (StreamReadInt.tointeger())
  {
-         	case 1: local data = StreamReadString; Inventory(data); break;
+         	case 1: local data = StreamReadString; InventoryMenu(data); break;
 			case 2: GUI.SetMouseEnabled(false); Dec_Inv(); break;	
             default: break;
  }
@@ -133,7 +133,7 @@ function GUI::ElementRelease( element, mouseX, mouseY )
     	   Server.SendData(DATA);
 	    }
 }
-    function Inventory(data)
+    function InventoryMenu(data)
 	{
 	    local separator = split(data, "|"), Pizza = separator[0], Hotdog = separator[1], Burger = separator[2], Cookie = separator[3], Taco = separator[4], Water = separator[5], Wine = separator[6], Weed = separator[7];
 	  

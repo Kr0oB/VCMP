@@ -255,7 +255,7 @@ function onClientScriptData( player )
 		local DataforClient = inv[ player.ID ].Pizza + "|" + inv[ player.ID ].Hotdog + "|" + inv[ player.ID ].Burger + "|" + inv[ player.ID ].Cookie + "|"+ inv[ player.ID ].Taco + "|" + inv[ player.ID ].Water + "|" + inv[ player.ID ].Wine +"|"+inv[ player.ID ].Weed;
 		local data = Stream();
 		data.StartWrite(  );
-		data.WriteInt(26);
+		data.WriteInt(2);
 		data.WriteString( DataforClient );
 		data.SendStream( player );
 		}
@@ -272,7 +272,7 @@ function onClientScriptData( player )
 		local DataforClient = inv[ player.ID ].Pizza + "|" + inv[ player.ID ].Hotdog + "|" + inv[ player.ID ].Burger + "|" + inv[ player.ID ].Cookie + "|"+ inv[ player.ID ].Taco + "|" + inv[ player.ID ].Water + "|" + inv[ player.ID ].Wine +"|"+inv[ player.ID ].Weed;
 		local data = Stream();
 		data.StartWrite(  );
-		data.WriteInt(26);
+		data.WriteInt(2);
 		data.WriteString( DataforClient );
 		data.SendStream( player );
 		}
@@ -289,7 +289,7 @@ function onClientScriptData( player )
 		local DataforClient = inv[ player.ID ].Pizza + "|" + inv[ player.ID ].Hotdog + "|" + inv[ player.ID ].Burger + "|" + inv[ player.ID ].Cookie + "|"+ inv[ player.ID ].Taco + "|" + inv[ player.ID ].Water + "|" + inv[ player.ID ].Wine +"|"+inv[ player.ID ].Weed;
 		local data = Stream();
 		data.StartWrite(  );
-		data.WriteInt(26);
+		data.WriteInt(2);
 		data.WriteString( DataforClient );
 		data.SendStream( player );
 		}
@@ -306,7 +306,7 @@ function onClientScriptData( player )
 		local DataforClient = inv[ player.ID ].Pizza + "|" + inv[ player.ID ].Hotdog + "|" + inv[ player.ID ].Burger + "|" + inv[ player.ID ].Cookie + "|"+ inv[ player.ID ].Taco + "|" + inv[ player.ID ].Water + "|" + inv[ player.ID ].Wine +"|"+inv[ player.ID ].Weed;
 		local data = Stream();
 		data.StartWrite(  );
-		data.WriteInt(26);
+		data.WriteInt(2);
 		data.WriteString( DataforClient );
 		data.SendStream( player );
 	    }
@@ -323,7 +323,7 @@ function onClientScriptData( player )
 		local DataforClient = inv[ player.ID ].Pizza + "|" + inv[ player.ID ].Hotdog + "|" + inv[ player.ID ].Burger + "|" + inv[ player.ID ].Cookie + "|"+ inv[ player.ID ].Taco + "|" + inv[ player.ID ].Water + "|" + inv[ player.ID ].Wine +"|"+inv[ player.ID ].Weed;
 		local data = Stream();
 		data.StartWrite(  );
-		data.WriteInt(26);
+		data.WriteInt(2);
 		data.WriteString( DataforClient );
 		data.SendStream( player );
 		}
@@ -340,7 +340,7 @@ function onClientScriptData( player )
 		local DataforClient = inv[ player.ID ].Pizza + "|" + inv[ player.ID ].Hotdog + "|" + inv[ player.ID ].Burger + "|" + inv[ player.ID ].Cookie + "|"+ inv[ player.ID ].Taco + "|" + inv[ player.ID ].Water + "|" + inv[ player.ID ].Wine +"|"+inv[ player.ID ].Weed;
 		local data = Stream();
 		data.StartWrite(  );
-		data.WriteInt(26);
+		data.WriteInt(2);
 		data.WriteString( DataforClient );
 		data.SendStream( player );
 		}
@@ -360,7 +360,7 @@ function onClientScriptData( player )
 		local DataforClient = inv[ player.ID ].Pizza + "|" + inv[ player.ID ].Hotdog + "|" + inv[ player.ID ].Burger + "|" + inv[ player.ID ].Cookie + "|"+ inv[ player.ID ].Taco + "|" + inv[ player.ID ].Water + "|" + inv[ player.ID ].Wine +"|"+inv[ player.ID ].Weed;
 		local data = Stream();
 		data.StartWrite(  );
-		data.WriteInt(26);
+		data.WriteInt(2);
 		data.WriteString( DataforClient );
 		data.SendStream( player );
 		}
@@ -380,7 +380,7 @@ function onClientScriptData( player )
 		local DataforClient = inv[ player.ID ].Pizza + "|" + inv[ player.ID ].Hotdog + "|" + inv[ player.ID ].Burger + "|" + inv[ player.ID ].Cookie + "|"+ inv[ player.ID ].Taco + "|" + inv[ player.ID ].Water + "|" + inv[ player.ID ].Wine +"|"+inv[ player.ID ].Weed;
 		local data = Stream();
 		data.StartWrite(  );
-		data.WriteInt(26);
+		data.WriteInt(2);
 		data.WriteString( DataforClient );
 		data.SendStream( player );
 		}
