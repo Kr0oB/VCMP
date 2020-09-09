@@ -7,8 +7,8 @@
 >  ( bu iki terim(client/server) heryerde geçer websocket rcon vs. )
 
 
-     İlk Soru vcmp'de client side nerde?  öğrenelim ' Sunucunuzun olduğu klasörün içinde > store > script > main.nut adlı dosya bizim client script dosyamız      
-                                                  ( eğer yoksa kendiniz oluşturabilirsiniz main.nut )
+İlk Soru vcmp'de client side nerde?  öğrenelim ' Sunucunuzun olduğu klasörün içinde > store > script > main.nut adlı dosya bizim client script dosyamız      
+                                               ( eğer yoksa kendiniz oluşturabilirsiniz main.nut )
             
   İkinci olarak Tarayıcınızdan( Chrome/Opera/Firefox felan ) http://wiki.thijn.ovh/index.php?title=Scripting/Squirrel/Client_Functions adresini açık bırakın çünkü,
 fonksiyonları öğreniceğimiz yer burası olucak ( wikide client scriptleme ile alakalı pek örnek yok o yüzden sadece fonksiyonların isimlerini öğrenmemiz yeter )
@@ -27,18 +27,19 @@ function SendDataToServer(str, int)
  message.WriteInt(int.tointeger());
  message.WriteString(str);
  Server.SendData(message);
-}```
-
+}
+```
 # Server Side ( Sunucunuzun olduğu klasörün içinden > scripts > main.nut (script dosyanız))
 
 ```squirrel
-                function SendDataToClient(player, integer, string)
-                {
-                    Stream.StartWrite();
-                    Stream.WriteInt(integer);
-                    if (string != null) Stream.WriteString(string);
-                    Stream.SendStream(player);
-                }```
-            *Hazırlık bitti
+function SendDataToClient(player, integer, string)
+{
+ Stream.StartWrite();
+ Stream.WriteInt(integer);
+ if (string != null) Stream.WriteString(string);
+ Stream.SendStream(player);
+}
+```
+   ### Hazırlık bitti
         
 
