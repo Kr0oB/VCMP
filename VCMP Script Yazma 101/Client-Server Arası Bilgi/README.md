@@ -19,7 +19,7 @@ Artık kod yazdığımızda hata varsa gözüktüğüne göre yazmaya nerdeyse h
 
 Ön hazırlığın son aşaması main.nut dosyanızın içinde en sonda SendDataToServer adlı bir fonksiyon olmalı onu biraz kısaltalım ne dersiniz ilk olarak o fonksiyonu silin ve bunu yapıştırın
 
-## Client Side ( Sunucunuzun olduğu klasörün içinden > store > scripts > main.nut (script dosyanız))
+##### Client Side ( Sunucunuzun olduğu klasörün içinden > store > scripts > main.nut (script dosyanız))
 
 ```squirrel
 function SendDataToServer(str, int)
@@ -30,7 +30,7 @@ function SendDataToServer(str, int)
  Server.SendData(message);
 }
 ```
-# Server Side ( Sunucunuzun olduğu klasörün içinden > scripts > main.nut (script dosyanız))
+##### Server Side ( Sunucunuzun olduğu klasörün içinden > scripts > main.nut (script dosyanız))
 
 ```squirrel
 function SendDataToClient(player, integer, string)
