@@ -1,6 +1,6 @@
 
 
-##### Okumak isteyenler için "Açıklamalar"
+# Okumak isteyenler için "Açıklamalar"
 
 > Bilmeyenler için sunucu yaparken araştırdığınız yerlerde client ve server gibi terimlerle karşılaşıcaksınız,
 >  bunlardan client olanı oyuncunun bilgisayarında gerçekleşicek olanıdır, server ise sunucuda gerçekleşicek olaylardır
