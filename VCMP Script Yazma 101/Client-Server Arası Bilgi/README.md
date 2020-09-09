@@ -1,5 +1,7 @@
 
 
+##### Okumak isteyenler için "Açıklamalar"
+
 > Bilmeyenler için sunucu yaparken araştırdığınız yerlerde client ve server gibi terimlerle karşılaşıcaksınız,
 >  bunlardan client olanı oyuncunun bilgisayarında gerçekleşicek olanıdır, server ise sunucuda gerçekleşicek olaylardır
 >  VCMP'de oyuncunun ekranında birşeyler çıkarmak için Client Side Scripting( Client tarafında scriptleme ) yapmamız gerekiyor,
