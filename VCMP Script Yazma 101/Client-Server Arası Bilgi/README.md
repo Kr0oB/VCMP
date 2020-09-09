@@ -10,8 +10,7 @@
 
 
 **İlk Soru vcmp'de client side nerde?**
-**öğrenelim ' Sunucunuzun olduğu klasörün içinde > store > script > main.nut adlı dosya bizim client script dosyamız**     
-**( eğer yoksa kendiniz oluşturabilirsiniz main.nut )**
+**öğrenelim ' Sunucunuzun olduğu klasörün içinde > store > script > main.nut adlı dosya bizim client script dosyamız ( eğer yoksa kendiniz oluşturabilirsiniz main.nut )**
             
 * İkinci olarak Tarayıcınızdan( Chrome/Opera/Firefox felan ) http://wiki.thijn.ovh/index.php?title=Scripting/Squirrel/Client_Functions adresini açık bırakın çünkü,
 * fonksiyonları öğreniceğimiz yer burası olucak ( wikide client scriptleme ile alakalı pek örnek yok o yüzden sadece fonksiyonların isimlerini öğrenmemiz yeter )       
