@@ -1,5 +1,6 @@
-class Playerstatus{
-Died = false;
+class Playerstatus
+{
+ Died = false;
  d_X = null;
  d_Y = null;
  d_Z = null;
@@ -9,9 +10,15 @@ Died = false;
 
 function onScriptLoad()
 {
-    // SQL bilgileri siz kendinize göre yaparsınız
+	status <- array(GetMaxPlayers(), null)
+	// SQL bilgileri siz kendinize göre yaparsınız
         DB <- ConnectSQL("Databases/Hesap.db");
         QuerySQL(DB, "create table if not exists Other ( Name TEXT, Died BOOLEAN DEFAULT false, DX FLOAT, DY FLOAT, DZ FLOAT) ");
+}
+
+function onPlayerJoin( player )
+{
+status[player.ID] = Playerstatus();
 }
 
 function aciloff(player)
@@ -44,7 +51,7 @@ if ( status[player.ID].Died == true)
 {
                 //Yardım Çağrısı
 
-local acilci;
+ local acilci;
  for( local i = 0; i <= GetMaxPlayers(); i++ )
  {
  acilci = FindPlayer( i );
@@ -65,7 +72,7 @@ local acilci;
 function onPlayerKill( killer, player, reason, bodypart )
 {
     player.Health = 1;
-        status[player.ID].Died = true;
+    status[player.ID].Died = true;
     if ( status[player.ID].Died == true)
     {
             //Yardım Çağrısı
@@ -122,7 +129,7 @@ function onTimeChange(oldHour, oldMin, newHour, newMin)
 						{
 							GetNearestHospital(player);
 							player.World = 1;
-                            // En yakın Hastane Scripti entegresi adamın süresi dolunca en yakın hastaneye gider
+                           				 // En yakın Hastane Scripti entegresi adamın süresi dolunca en yakın hastaneye gider
 							if (Hospital_Spawn[player.ID] == true) { player.Pos = Hospital_Locator[player.ID]; Hospital_Spawn[player.ID] = false; }
 							Hospi[player.ID] = 0;
 							MessagePlayer( "[#e74c3c][ACIL] [#FFFFFF]Butun doktorlar izinde amk bu nasi is bole neyse seni en yakin hastaneye ulastirdik son anda hadi yine iyisin.", player );
@@ -178,15 +185,17 @@ function kaldir( player )
 status[player.ID].Died = "false";
   MessagePlayer("[#ef5777]#[#0be881]VC[#d2dae2]-[#575fcf]TR[#ef5777]# [#828282]Tedavin bitti", player);
  }
- 						Stream.StartWrite();
-						Stream.WriteInt(37);
-						Stream.SendStream(player);	
-						status[player.ID].DeadFor = null;	
-                        Message("Burdayim");
+Stream.StartWrite();
+Stream.WriteInt(37);
+Stream.SendStream(player);	
+status[player.ID].DeadFor = null;	
 }
 function SaveAccount(player)
 {
-          QuerySQL(DB, "UPDATE Other SET Died = '" + status[player.ID].Died + "' WHERE Name = '" + player.Name + "'");
+        QuerySQL(DB, "UPDATE Other SET Died = '" + status[player.ID].Died + "' WHERE Name = '" + player.Name + "'");
+          QuerySQL(DB, "UPDATE Other SET DX = '" + status[player.ID].d_X + "' WHERE Name = '" + player.Name + "'");
+          QuerySQL(DB, "UPDATE Other SET DY = '" + status[player.ID].d_Y + "' WHERE Name = '" + player.Name + "'");
+          QuerySQL(DB, "UPDATE Other SET DZ = '" + status[player.ID].d_Z + "' WHERE Name = '" + player.Name + "'");
 }
 
 
