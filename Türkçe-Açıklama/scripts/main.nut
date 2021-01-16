@@ -1,10 +1,4 @@
 /*
-Vice City Multiplayer 0.4 Blank Server (by Seby) for 64bit Windows.
-You can use it to script your own server. Here you can find all events developed.
-
-VC:MP Official: www.vc-mp.org
-Forum: forum.vc-mp.org
-Wiki: wiki.vc-mp.org
 
 Bu dosyanın asıl hali [->](https://forum.vc-mp.org/?topic=33.0)
 ------------------------------------------------------------------
