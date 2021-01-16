@@ -1,0 +1,5 @@
+Plugins -> Sunucuda kullanıcağınız pluginlerin depolandığı yer
+scripts -> Server-Side scriptingi yaptığınız yer detaylı bilgi klasör içindeki dosyada
+store -> Detaylı bilgi klasör içinde OKU BENİ.txt'de
+server.cfg -> Sunucu pluginlerini sıraladığınız, portunu belirlediğiniz, oyuncu sayısını belirlediğiniz, sunucu açıklamasını değiştirdiğiniz yer
+server.conf -> Sunucu ile alakalı detaylı ayarlar içinde

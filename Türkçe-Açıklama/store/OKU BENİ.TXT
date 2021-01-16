@@ -1,0 +1,13 @@
+BURASI SUNUCUYA SKIN/ARAÇ/OBJE/ GİBİ (MODLU) ŞEYLER EKLEMEK İÇİN KULLANILIR
+Klasör İsmi | Ne için kullanılır
+skins            = skinler için
+mapicons    = map işaretleri eklemek için
+maps            = eklediğiniz objeleri direkt olarak mape eklemek için kullanılır
+objects         = oyunda olmayan objeler eklemek için
+sounds         = oyunda olmayan sesler/şarkılar eklemek için
+sprites          = görsel eklemek için (Client-Side scripting'de tasarım amaçlı görseller)
+vehicles       = araç eklemek için
+weapons      = silah eklemek için
+scripts          = Client-Side scripting için kullanılır detaylı bilgi https://github.com/Kr0oB/VCMP/wiki/Client-Server-Haz%C4%B1rl%C4%B1k
+
+detaylı bilgi burdan bulabilirsiniz http://wiki.adtec.ovh/wiki/Custom_Files
